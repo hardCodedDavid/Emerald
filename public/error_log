@@ -1,0 +1,127 @@
+[30-Nov-2019 00:55:27 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\LoginController::__construct() in /home/emeral12/public_html/app/Farmvest/app/Http/Controllers/Auth/LoginController.php on line 46
+[12-Mar-2020 19:08:43 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/emeral12/public_html/app/Farmvest/app/Http/Controllers/HomeController.php on line 444
+[23-Jun-2020 08:38:17 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/emeral12/public_html/app/Farmvest/routes/web.php on line 18
+[14-Sep-2020 09:56:42 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:42 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:42 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:46 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:46 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:46 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:49 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:49 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:49 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:51 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:51 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 09:56:51 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:20 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:22 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:22 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/autoload.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 24
+[14-Sep-2020 10:18:22 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 24
+[28-Sep-2020 12:22:45 Africa/Lagos] PHP Warning:  require_once(/home/emeral12/public_html/app/Farmvest/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/Farmvest/vendor/autoload.php on line 5
+[28-Sep-2020 12:22:45 Africa/Lagos] PHP Fatal error:  require_once(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/Farmvest/vendor/autoload.php on line 5
+[28-Sep-2020 12:22:46 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/composer/../swiftmailer/swiftmailer/lib/swift_required.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/Farmvest/vendor/composer/autoload_real.php on line 69
+[28-Sep-2020 12:22:46 Africa/Lagos] PHP Warning:  require(/home/emeral12/public_html/app/Farmvest/vendor/composer/../swiftmailer/swiftmailer/lib/swift_required.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/Farmvest/vendor/composer/autoload_real.php on line 69
+[28-Sep-2020 12:22:46 Africa/Lagos] PHP Fatal error:  require(): Failed opening required '/home/emeral12/public_html/app/Farmvest/vendor/composer/../swiftmailer/swiftmailer/lib/swift_required.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/Farmvest/vendor/composer/autoload_real.php on line 69
+[28-Sep-2020 12:22:46 Africa/Lagos] PHP Warning:  require_once(/home/emeral12/public_html/app/Farmvest/bootstrap/app.php): failed to open stream: No such file or directory in /home/emeral12/public_html/app/index.php on line 38
+[28-Sep-2020 12:22:46 Africa/Lagos] PHP Fatal error:  require_once(): Failed opening required '/home/emeral12/public_html/app/Farmvest/bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/emeral12/public_html/app/index.php on line 38
+[25-Nov-2022 15:22:15 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:22:15 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:22:19 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:22:19 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:22:20 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:22:20 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:22:21 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:22:21 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:22:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:22:49 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:25:32 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:25:32 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:27:38 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:27:38 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 09:29:03 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/symfony/polyfill-php80/bootstrap.php on line 29
+[25-Nov-2022 15:30:36 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:30:36 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:32:08 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:32:08 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:34:50 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:34:50 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:38:37 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:38:37 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:38:40 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:38:40 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:38:44 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:38:44 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:38:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:38:47 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:39:24 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:39:24 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:39:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:39:30 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:39:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:39:33 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:39:57 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:39:57 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:46:10 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:46:10 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:46:13 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:46:13 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:46:39 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:46:39 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:46:50 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:46:50 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:23 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:23 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:31 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:31 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:33 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:47:34 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:51:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:51:42 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:52:53 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:52:53 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:53:02 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:53:02 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:53:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:53:14 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:53:55 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:53:55 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:54:03 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:54:03 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:54:06 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:54:06 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:55:20 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:55:20 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:55:22 Africa/Lagos] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/psr/log/src/LoggerInterface.php on line 30
+[25-Nov-2022 15:55:22 Africa/Lagos] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[25-Nov-2022 15:58:40 Africa/Lagos] PHP Fatal error:  During inheritance of ArrayAccess: Uncaught ErrorException: Return type of Illuminate\Support\Collection::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Support/Collection.php:1277
+Stack trace:
+#0 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Support/Collection.php(11): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/composer/ClassLoader.php(571): include('/home/liftniger...')
+#2 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile()
+#3 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Support/helpers.php(109): Composer\Autoload\ClassLoader->loadClass()
+#4 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(89): collect()
+#5 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/PackageManifest.php(78): Illuminate\Foundation\PackageManifest->config()
+#6 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterFacades.php(26): Illuminate\Foundation\PackageManifest->aliases()
+#7 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(219): Illuminate\Foundation\Bootstrap\RegisterFacades->bootstrap()
+#8 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(156): Illuminate\Foundation\Application->bootstrapWith()
+#9 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(140): Illuminate\Foundation\Http\Kernel->bootstrap()
+#10 /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#11 /home/liftnigeria/emeralfarm.liftnigeria.ng/public/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main} in /home/liftnigeria/emeralfarm.liftnigeria.ng/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 11
